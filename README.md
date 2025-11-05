@@ -318,10 +318,6 @@ echo $GOOGLE_API_KEY
 | [⚙️ Configuration](docs/CONFIGURATION.md) | Configuration options |
 | [🔧 Troubleshooting](docs/TROUBLESHOOTING.md) | Detailed troubleshooting |
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=CodeGovindz/MindLayer&type=Date)](https://star-history.com/#CodeGovindz/MindLayer&Date)
-
 ## 🙏 Acknowledgments
 
 - [OpenAI](https://openai.com) for GPT models and embeddings
@@ -334,13 +330,6 @@ echo $GOOGLE_API_KEY
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-- 📧 **Email**: support@universalmemorylayer.com
-- 💬 **Discord**: [Join our community](https://discord.gg/universal-memory-layer)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/CodeGovindz/MindLayer/issues)
-- 📖 **Docs**: [Documentation](https://github.com/CodeGovindz/MindLayer/tree/main/docs)
 
 ---
 
