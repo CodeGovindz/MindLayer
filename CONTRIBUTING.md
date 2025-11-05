@@ -153,12 +153,6 @@ For feature requests, please include:
 - Follow security best practices
 - Report security issues privately
 
-## 📞 Getting Help
-
-- **Issues**: [GitHub Issues](https://github.com/CodeGovindz/MindLayer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/CodeGovindz/MindLayer/discussions)
-- **Email**: codegovindz@gmail.com
-
 ## 📄 License
 
 By contributing, you agree that your contributions will be licensed under the MIT License.
